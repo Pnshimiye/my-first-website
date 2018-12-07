@@ -1,0 +1,32 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
+body{
+  align-content: center;
+  text-align: center;
+  color:#d6ddb3;
+  background-color: black
+}
+ul{
+  text-decoration: none;
+  list-style-type: none;
+}
+h1{
+  color: whitesmoke;
+}
